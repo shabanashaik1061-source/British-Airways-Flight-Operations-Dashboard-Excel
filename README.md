@@ -111,10 +111,10 @@ Interactive slicers allow users to filter data by:
 **Shabana Shaik**
 
 GitHub:
-https://github.com/shabanashaik1061-source
+https://github.com/shabanashaik1061-source/British-Airways-Flight-Operations-Dashboard-Excel/tree/main
 
 LinkedIn:
-https://www.linkedin.com/in/shabana-shaik
+www.linkedin.com/in/shabana-shaik-0888ab2b7
 
 ---
 
