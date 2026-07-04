@@ -87,11 +87,11 @@ Interactive slicers allow users to filter data by:
 
 ### Dashboard View 2
 
-![Dashboard 2](
+![Dashboard 2](https://github.com/shabanashaik1061-source/British-Airways-Flight-Operations-Dashboard-Excel/blob/main/AIRLINES-2.png)
 
 
 
-## 🎯 Skills Demonstrated
+## 🎯 Skills 
 
 - Microsoft Excel
 - Dashboard Development
