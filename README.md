@@ -83,13 +83,13 @@ Interactive slicers allow users to filter data by:
 
 ### Dashboard View 1
 
-![Dashboard 1](
+![Dashboard 1](https://github.com/shabanashaik1061-source/British-Airways-Flight-Operations-Dashboard-Excel/blob/main/AIRLINES-1.png)
 
 ### Dashboard View 2
 
-(Add Screenshot 2 here)
+![Dashboard 2](
 
----
+
 
 ## 🎯 Skills Demonstrated
 
@@ -104,7 +104,7 @@ Interactive slicers allow users to filter data by:
 - KPI Reporting
 - Data Cleaning
 
----
+
 
 ## 👩‍💻 Author
 
